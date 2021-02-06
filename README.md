@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Travis
+
+[![Build Status](https://travis-ci.com/xavierloos/todo-app.svg?branch=main)](https://travis-ci.com/xavierloos/todo-app)
